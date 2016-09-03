@@ -16,3 +16,6 @@ Things I didn't know about before working through episode 6
 * guard - used guard to watch directories for changes to automatically run rspec tests. Also had to lock to version 2.12.5 of guard gem for ChefDK
 * creating custom matchers - created an install_redis for testing of installation of custom resource
 * step_into - had to add this to the ChefSpec::ServerRunner to be able to test parts of the custom resource
+
+
+quick test
